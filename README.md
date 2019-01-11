@@ -7,5 +7,5 @@ Macro developed for Solid Edge ST10 software.
 
 This tool is suitable for use when the Part Document or Sheet Metal Document is open.
 
-To use Macro, click the executable:
+To use Macro, download the compressed file (SolidEdgeDeleteHolesByDiameter.rar). Unzip the file and click the executable:
 SolidEdgeDeleteHolesByDiameter1.exe
